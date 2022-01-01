@@ -15,6 +15,6 @@ I have been coding ever since, picking up JavaScript, PHP, Java, C, Ruby, OCaml,
 
 My hobbies:
 - working on my 2003 Toyota Camry and 2006 Toyota Sienna
-- product reviewing on Amazon.com (got some cool free products!
+- product reviewing on Amazon.com (I have received for free and reviewed vacuum robots, smartphones and accessories, camping gadgets, and everything in between!)
 - camping and crabbing in the Chesapeake Bay
 - coin collecting
