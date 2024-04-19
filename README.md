@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jeffrey Tran, @jhtran1234
 - 👀 I’m interested in backend and frontend!
 - 🌱 I’m currently learning Node.js, TypeScript
-- 📫 How to reach me: jtran888@umd.edu
+- 📫 How to reach me: jeffrey.h.tran1@gmail.com / jtran888@umd.edu
 
 This is my first repository. Hello world!
 
